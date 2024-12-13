@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuiu.LongortovEB.Lab3.Review.V4", "Tuiu.LongortovEB.Lab3.Review.V4\Tuiu.LongortovEB.Lab3.Review.V4.csproj", "{1AC6D175-1A39-4EFA-97CE-E3A1474CBF4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolveMathFirstExpression.Test", "SolveMathFirstExpression.Test\SolveMathFirstExpression.Test.csproj", "{62FBF786-854B-4B3F-9DCB-55161788B48E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolveMathSecondExpression.Test", "SolveMathSecondExpression.Test\SolveMathSecondExpression.Test.csproj", "{B58AF58D-3E43-49F7-A3E0-809B3BC638F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolveTabMathFuction.Test", "SolveTabMathFuction.Test\SolveTabMathFuction.Test.csproj", "{A7FDB826-CFFF-4D59-A76B-1DBA34066B83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolveCalculate.Test", "SolveCalculate.Test\SolveCalculate.Test.csproj", "{DED10EDB-9DD2-4360-BB9C-0142C10147CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolveArray.Test", "SolveArray.Test\SolveArray.Test.csproj", "{5CD313A1-7B02-4D4A-8FE3-A428F3EBBB19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolveMathFirstExpression.Lib", "SolveMathFirstExpression.Lib\SolveMathFirstExpression.Lib.csproj", "{886B8F52-A38C-451A-97C0-871AE0FF1300}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolveMathSecondExpression.Lib", "SolveMathSecondExpression.Lib\SolveMathSecondExpression.Lib.csproj", "{DD7F94A2-7DAB-4DA3-9416-F6494D1F0FB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolveTabMathFuction.Lib", "SolveTabMathFuction.Lib\SolveTabMathFuction.Lib.csproj", "{241F4AED-934D-4DF6-A85B-540A34028272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolveCalculate.Lib", "SolveCalculate.Lib\SolveCalculate.Lib.csproj", "{47DE3A2A-3A22-4086-99CF-1DA6567F6260}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolveArray.Lib", "SolveArray.Lib\SolveArray.Lib.csproj", "{6E3E82CE-9A4A-4F90-9413-1CED0B725AC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AC6D175-1A39-4EFA-97CE-E3A1474CBF4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC6D175-1A39-4EFA-97CE-E3A1474CBF4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC6D175-1A39-4EFA-97CE-E3A1474CBF4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC6D175-1A39-4EFA-97CE-E3A1474CBF4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62FBF786-854B-4B3F-9DCB-55161788B48E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FBF786-854B-4B3F-9DCB-55161788B48E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62FBF786-854B-4B3F-9DCB-55161788B48E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62FBF786-854B-4B3F-9DCB-55161788B48E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B58AF58D-3E43-49F7-A3E0-809B3BC638F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B58AF58D-3E43-49F7-A3E0-809B3BC638F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B58AF58D-3E43-49F7-A3E0-809B3BC638F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B58AF58D-3E43-49F7-A3E0-809B3BC638F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7FDB826-CFFF-4D59-A76B-1DBA34066B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7FDB826-CFFF-4D59-A76B-1DBA34066B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7FDB826-CFFF-4D59-A76B-1DBA34066B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7FDB826-CFFF-4D59-A76B-1DBA34066B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DED10EDB-9DD2-4360-BB9C-0142C10147CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED10EDB-9DD2-4360-BB9C-0142C10147CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED10EDB-9DD2-4360-BB9C-0142C10147CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED10EDB-9DD2-4360-BB9C-0142C10147CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CD313A1-7B02-4D4A-8FE3-A428F3EBBB19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD313A1-7B02-4D4A-8FE3-A428F3EBBB19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CD313A1-7B02-4D4A-8FE3-A428F3EBBB19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CD313A1-7B02-4D4A-8FE3-A428F3EBBB19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{886B8F52-A38C-451A-97C0-871AE0FF1300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886B8F52-A38C-451A-97C0-871AE0FF1300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886B8F52-A38C-451A-97C0-871AE0FF1300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886B8F52-A38C-451A-97C0-871AE0FF1300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD7F94A2-7DAB-4DA3-9416-F6494D1F0FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7F94A2-7DAB-4DA3-9416-F6494D1F0FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7F94A2-7DAB-4DA3-9416-F6494D1F0FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7F94A2-7DAB-4DA3-9416-F6494D1F0FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{241F4AED-934D-4DF6-A85B-540A34028272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241F4AED-934D-4DF6-A85B-540A34028272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241F4AED-934D-4DF6-A85B-540A34028272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241F4AED-934D-4DF6-A85B-540A34028272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47DE3A2A-3A22-4086-99CF-1DA6567F6260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47DE3A2A-3A22-4086-99CF-1DA6567F6260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47DE3A2A-3A22-4086-99CF-1DA6567F6260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47DE3A2A-3A22-4086-99CF-1DA6567F6260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E3E82CE-9A4A-4F90-9413-1CED0B725AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E3E82CE-9A4A-4F90-9413-1CED0B725AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E3E82CE-9A4A-4F90-9413-1CED0B725AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E3E82CE-9A4A-4F90-9413-1CED0B725AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DF1C705-D856-4EA7-B8D8-65AE0A93C68A}
+	EndGlobalSection
+EndGlobal
